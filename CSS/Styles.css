@@ -35,7 +35,7 @@ p{
     color: #065c5f;
 }
 .first-container{
-    background-color: #e4f6fd;
+    background-color: #EAF6F6;
     margin: 0;
     padding-top: 100px;
     position: relative;
@@ -98,13 +98,22 @@ a{
     margin-bottom: 50px;
 
 }
-.skill-row{
+.skill-row-1{
     width: 60%;
     margin: 100px auto 100px auto;
     text-align: left;
-
+    clear: right;
 }
-.skill-row p{
+.skill-row-2{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    clear: left;
+}
+.skill-row-1 p{
+    line-height: 2;
+}
+.skill-row-2 p{
     line-height: 2;
 }
 .contact-me{
