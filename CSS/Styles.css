@@ -15,27 +15,41 @@ h1{
     font-family: 'Sacramento', cursive;
     font-size: 500%;
     margin: 0;
+    line-height: 2;
 }
 h2{
-    font-size: 4pm;
+    font-size: 3em;
     font-family: 'Montserrat', sans-serif;
     padding: 0;
+    color: #065c5f;
+    font-weight: normal;
+
 }
 h3{
     font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: 2em;
 }
 p{
     font-size: 1.5em;
+    color: #065c5f;
 }
 .first-container{
-    background-color: #A2DBFA;
+    background-color: #c9e7f8;
     margin: 0;
     padding-top: 100px;
     position: relative;
 }
+a{
+    color: #11999E;
+}
 .first-container h1{
     padding: 40px;
     padding-bottom: 0;
+    color: #66BFBF;
+}
+.first-container h2{
+    color: #66BFBF;
 }
 .first-container p{
     padding-top: 10px;
