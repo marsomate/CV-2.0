@@ -85,17 +85,18 @@ a{
     padding: 50px;
 }
 .gif-1{
-    width: 100px;
+    width: 20%;
 }
 .network{
-    width: 100px;
+    width: 20%;
 }
 .skill-row{
     width: 50%;
     margin: 100px auto 100px auto;
+    text-align: left;
+
 }
 .skill-row p{
-    text-align: left;
     line-height: 2;
 }
 .contact-me{
