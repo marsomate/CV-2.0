@@ -1,2 +1,13 @@
-body {
+body{
+    margin: 0;
+}
+.first-container{
+    background-color: #82AAE3;
+    margin: 0;
+}
+.first-container h1{
+    margin: 0;
+}
+.first-container p{
+    margin: 0;
 }
