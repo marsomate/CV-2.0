@@ -1,6 +1,7 @@
 body{
     margin: 0;
     text-align: center;
+    font-family: 'Merriweather', serif;
 }
 .first-container{
     background-color: #82AAE3;
@@ -9,11 +10,21 @@ body{
     position: relative;
 
 }
+h1{
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
 .first-container h1{
     margin: 0;
 }
 .first-container p{
     margin: 0;
+    padding-top: 10px;
 }
 .cloud-1{
     position: absolute;
@@ -30,12 +41,12 @@ body{
     position: relative;
 }
 .second-container{
-background-color: red;
-height: 200px;
-width: 200px;
+    background-color: #91D8E4;
+}
+.profile-picture{
+    padding: 50px;
+    width: 200px;
 }
 .third-container{
-background-color: blue;
-height: 200px;
-width: 200px;
+    background-color: #BFEAF5;
 }
