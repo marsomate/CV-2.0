@@ -35,7 +35,7 @@ p{
     color: #065c5f;
 }
 .first-container{
-    background-color: #c9e7f8;
+    background-color: #e4f6fd;
     margin: 0;
     padding-top: 100px;
     position: relative;
@@ -87,6 +87,11 @@ a{
 .gif-1{
     width: 100px;
     height: 100px;
+}
+.skill-row{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .contact-me{
     background-color: #EAFDFC;
