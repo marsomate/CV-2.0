@@ -86,12 +86,17 @@ a{
 }
 .gif-1{
     width: 100px;
-    height: 100px;
+}
+.network{
+    width: 100px;
 }
 .skill-row{
     width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 100px auto 100px auto;
+}
+.skill-row p{
+    text-align: left;
+    line-height: 2;
 }
 .contact-me{
     background-color: #EAFDFC;
