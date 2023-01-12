@@ -1,0 +1,141 @@
+body {
+    background-color: #DFD3C3;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+hr {
+    border-color: #DBA39A;
+    border-width: 5px;
+    border-style: dotted none none;
+    width: 20%;
+}
+h1{
+    color: #885a53;
+    text-shadow: 1px 1px 1px rgb(167, 131, 115);
+    margin-top: 0px;
+}
+h2{
+    color: #885a53;
+    margin: 0px;
+}
+h3{
+    color: #885a53;
+    margin: 0px;
+}
+p{
+    color: #885a53;
+}
+td{
+    padding: 15px;
+}
+.table_default{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 5px;
+    border-collapse: collapse;
+    text-align: center;
+}
+.table_default th, td {
+    border: 3px solid;
+    border-color: #F5EBE0;
+}
+.table_default td:hover{
+background-color: #F5EBE0;
+}
+.first{
+    display: inline-block;
+    background-color: #FEFCF3;
+    width: 150px;
+    height: 220px;
+    padding: 20px;
+    position: absolute;
+}
+.second{
+    display: inline-block;
+    background-color: #FEFCF3;
+    width: 1300px;
+    height: 220px;
+    left:180px;
+    padding: 20px;
+    position: absolute;
+    
+}
+.third{
+    display: inline-block;
+    background-color: #FEFCF3;
+    width: 1480px;
+    height: 300px;
+    top:260px;
+    padding: 20px;
+    position: absolute;
+}
+.fourth{
+    display: inline-block;
+    background-color: #DFD3C3;
+    top: 520px;
+    width: 1480px;
+    height: 100px;
+    padding: 20px;
+    position: absolute;
+}
+.fifth{
+    display: inline-block;
+    background-color: #D0B8A8;
+    top: 660px;
+    width: 1480px;
+    height: 200px;
+    padding: 20px;
+    position: absolute;
+}
+.profile_picture{
+    background-color: #FEFCF3;
+    width: 100%;
+    height: auto;
+}
+.header_1{
+    display: inline-block;
+}
+.cloud_picture_1{
+    background-color: #FEFCF3;
+    width: 150px;
+    top: 150px;
+    left: 500px;
+    display: inline-block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+}
+.cloud_picture_2{
+    background-color: #FEFCF3;
+    width: 150px;
+    top: 20px;
+    left: 50px;
+    display: inline-block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position:absolute;
+}
+.cloud_picture_3{
+    background-color: #FEFCF3;
+    width: 150px;
+    top: 20px;
+    left: 1000px;
+    display: inline-block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position:absolute;
+}
+.big_picture{
+    background-color: #FEFCF3;
+    width: 300px;
+    top: 0px;
+    position: relative;
+    height: auto;
+    left: 1200px;
+    display: block;
+
+}
