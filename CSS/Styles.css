@@ -1,11 +1,13 @@
 body{
     margin: 0;
-text-align: center;
+    text-align: center;
 }
 .first-container{
     background-color: #82AAE3;
     margin: 0;
-    padding: 20px 20px 0px 20px;
+    padding-top: 100px;
+    position: relative;
+
 }
 .first-container h1{
     margin: 0;
@@ -14,16 +16,21 @@ text-align: center;
     margin: 0;
 }
 .cloud-1{
-    position: relative;
-    left: 300px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
 }
 .cloud-2{
+    left:300px;
+    top: 300px;
+    position: absolute;
 }
-.cloud-3{
+.mountain-3{
+    position: relative;
 }
 .second-container{
 background-color: red;
-text-align: center;
 height: 200px;
 width: 200px;
 }
