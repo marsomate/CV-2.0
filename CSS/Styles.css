@@ -1,13 +1,34 @@
 body{
     margin: 0;
+text-align: center;
 }
 .first-container{
     background-color: #82AAE3;
     margin: 0;
+    padding: 20px 20px 0px 20px;
 }
 .first-container h1{
     margin: 0;
 }
 .first-container p{
     margin: 0;
+}
+.cloud-1{
+    position: relative;
+    left: 300px;
+}
+.cloud-2{
+}
+.cloud-3{
+}
+.second-container{
+background-color: red;
+text-align: center;
+height: 200px;
+width: 200px;
+}
+.third-container{
+background-color: blue;
+height: 200px;
+width: 200px;
 }
