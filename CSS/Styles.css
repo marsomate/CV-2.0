@@ -42,6 +42,7 @@ p{
 }
 a{
     color: #11999E;
+    text-decoration: none;
 }
 .first-container h1{
     padding: 40px;
@@ -141,7 +142,6 @@ a{
     border: solid #245722 2px;
     text-decoration: none;
   }
-  
   .btn:hover {
     background: #30E3CB;
     background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
@@ -162,4 +162,10 @@ a{
     width: 7%;
     position: absolute;
     left: 60px;
+}
+.robot-picture{
+    position: absolute;
+    right: 0px;
+    width: 20%;
+    top: 1120px;
 }
