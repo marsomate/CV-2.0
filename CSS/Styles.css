@@ -44,6 +44,9 @@ a{
     color: #11999E;
     text-decoration: none;
 }
+a:hover{
+    color: #eaf6f6;
+}
 .first-container h1{
     padding: 40px;
     padding-bottom: 0;
