@@ -172,3 +172,8 @@ a:hover{
     width: 20%;
     top: 1120px;
 }
+.copy{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 1em;
+}
