@@ -27,7 +27,7 @@ h3{
     position: relative;
 }
 .first-container h1{
-    padding: 50px;
+    padding: 40px;
 }
 .first-container p{
     padding-top: 10px;
@@ -52,15 +52,18 @@ h3{
 }
 .profile{
     background-color: #91D8E4;
-
+    padding: 50px;
 }
 .profile p{
     margin-bottom: 0;
     padding: 10px;
-    }
+}
 .skills{
     background-color: #BFEAF5;
     padding: 50px;
+}
+.gif{
+    width: 100px;
 }
 .contact-me{
     background-color: #EAFDFC;
